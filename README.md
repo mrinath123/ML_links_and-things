@@ -48,3 +48,5 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 9.https://karpathy.github.io/ // very good blogs
 
 10.https://kozodoi.me/blog/ // good set of blogs
+
+11. https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html //finding good Lr
