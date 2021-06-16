@@ -1,4 +1,4 @@
-# ML_links_and-things
+# ML_links_and_things
 
 1.Architectures
 AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
