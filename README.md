@@ -45,6 +45,6 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 
 8.https://amaarora.github.io/ // very good blogs
 
-9. https://karpathy.github.io/ //very good blogs
+9.https://karpathy.github.io/ // very good blogs
 
 10.https://kozodoi.me/blog/ // good set of blogs
