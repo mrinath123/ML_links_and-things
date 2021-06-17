@@ -60,4 +60,4 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 
 12.https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
 
-13.https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources?utm_source=facebook&utm_medium=post-in-group&utm_campaign=blog-graph-neural-networks-libraries-tools-learning-resources&utm_content=DeepLearnng
+13.https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources?utm_source=facebook&utm_medium=post-in-group&utm_campaign=blog-graph-neural-networks-libraries-tools-learning-resources&utm_content=DeepLearnng //tips to learn GNNs
