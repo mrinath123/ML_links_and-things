@@ -56,4 +56,8 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 
 10.https://kozodoi.me/blog/ // good set of blogs
 
-11. https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html //finding good Lr
+11.https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html //finding good Lr
+
+12.https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
+
+13.https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources?utm_source=facebook&utm_medium=post-in-group&utm_campaign=blog-graph-neural-networks-libraries-tools-learning-resources&utm_content=DeepLearnng
