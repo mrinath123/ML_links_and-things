@@ -62,4 +62,6 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 
 13.https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources?utm_source=facebook&utm_medium=post-in-group&utm_campaign=blog-graph-neural-networks-libraries-tools-learning-resources&utm_content=DeepLearnng //tips to learn GNNs
 
-14. https://arxiv.org/pdf/2106.11959.pdf //deep learning on tabular data, you can also check 'Tabnet'
+14.https://arxiv.org/pdf/2106.11959.pdf //deep learning on tabular data, you can also check 'Tabnet'
+
+15. https://github.com/fastai/fastbook the whole official fastbook, very good for beginners in deep learning
