@@ -64,4 +64,6 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 
 14.https://arxiv.org/pdf/2106.11959.pdf //deep learning on tabular data, you can also check 'Tabnet'
 
-15. https://github.com/fastai/fastbook the whole official fastbook, very good for beginners in deep learning
+15.https://github.com/fastai/fastbook the whole official fastbook, very good for beginners in deep learning
+
+16.https://fullstackdeeplearning.com/spring2021/lecture-7/ Troubleshooting Deep Neural Networks , Very important 
