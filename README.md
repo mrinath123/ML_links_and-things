@@ -67,3 +67,5 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 15.https://github.com/fastai/fastbook the whole official fastbook, very good for beginners in deep learning
 
 16.https://fullstackdeeplearning.com/spring2021/lecture-7/ Troubleshooting Deep Neural Networks , Very important 
+
+17. https://sebastianraschka.com/blog/2021/dl-course.html another great deep learning course
