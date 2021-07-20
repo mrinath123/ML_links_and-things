@@ -69,3 +69,5 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 16.https://fullstackdeeplearning.com/spring2021/lecture-7/ Troubleshooting Deep Neural Networks , Very important 
 
 17.https://sebastianraschka.com/blog/2021/dl-course.html another great deep learning course
+
+18.https://github.com/ishikkkkaaaa/Python-ML Beginner ML projects and codes
