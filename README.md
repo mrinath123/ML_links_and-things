@@ -77,3 +77,5 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 20.https://github.com/jbhuang0604/awesome-tips awesome tips regarding general research (Not only ML)
 
 21.https://www.youtube.com/watch?v=9mS1fIYj1So PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA
+
+22.https://huyenchip.com/ml-interviews-book/ for your ML iterviews!
