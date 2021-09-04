@@ -72,6 +72,8 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 
 18.https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/  Faster Deep Learning Training with PyTorch
 
-19. https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/ loading kaggle datasets to colab
+19.https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/ loading kaggle datasets to colab
 
-20. https://github.com/jbhuang0604/awesome-tips awesome tips regarding general research (Not only ML)
+20.https://github.com/jbhuang0604/awesome-tips awesome tips regarding general research (Not only ML)
+
+21.https://www.youtube.com/watch?v=9mS1fIYj1So PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA
