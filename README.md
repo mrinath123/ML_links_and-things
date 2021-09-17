@@ -79,3 +79,5 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 21.https://www.youtube.com/watch?v=9mS1fIYj1So PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA
 
 22.https://huyenchip.com/ml-interviews-book/ for your ML iterviews!
+
+23.https://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/ frequentism vs bayesianism
