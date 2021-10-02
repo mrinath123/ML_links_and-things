@@ -81,3 +81,7 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 22.https://huyenchip.com/ml-interviews-book/ for your ML iterviews!
 
 23.https://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/ frequentism vs bayesianism
+
+24.https://davidrosenberg.github.io/ml2016/#home MACHINE LEARNING AND COMPUTATIONAL STATISTICS course by legend David Rosenberg
+
+25.https://cds.nyu.edu/deep-learning/ Deep Learning couse(my favourite course) by OG Yann LeCun(spring 2021 edition)
