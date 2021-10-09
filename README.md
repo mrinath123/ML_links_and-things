@@ -84,4 +84,6 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 
 24.https://davidrosenberg.github.io/ml2016/#home MACHINE LEARNING AND COMPUTATIONAL STATISTICS course by legend David Rosenberg
 
-25.https://cds.nyu.edu/deep-learning/ Deep Learning couse(my favourite course) by OG Yann LeCun(spring 2021 edition)
+25.https://cds.nyu.edu/deep-learning/ Deep Learning course(my favourite course) by OG Yann LeCun(spring 2021 edition)
+
+26.https://nn.labml.ai/   Annotated PyTorch Paper Implementations
