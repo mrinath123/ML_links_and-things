@@ -89,3 +89,5 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 26.https://nn.labml.ai/   Annotated PyTorch Paper Implementations
 
 27.https://ikhlestov.github.io/pages/machine-learning/convolutions-types/ Different types of the convolution layers
+
+28.https://amitness.com/ nice set of blogs
