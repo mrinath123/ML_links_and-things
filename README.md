@@ -91,3 +91,12 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 27.https://ikhlestov.github.io/pages/machine-learning/convolutions-types/ Different types of the convolution layers
 
 28.https://amitness.com/ nice set of blogs
+
+29.https://medium.com/@hirotoschwert/digging-into-detectron-2-47b2e794fabd FasterRcnn in detecron2
+
+30.https://medium.com/@chris.p.hughes10 nice set of blogs
+
+31.https://explained.ai/matrix-calculus/ Matrix Calculus
+
+32.https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/ Training tricks for Resnet(can be applied to other models too)
+
